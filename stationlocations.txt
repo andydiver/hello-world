@@ -11,3 +11,7 @@
    <b>Jupiter</b><br>
    Future Department
 </p>
+<p>
+   <b>Venus</b><br>
+   Venus is the second planet from the Sun, orbiting it every 224.7 Earth days.
+</p>
