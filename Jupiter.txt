@@ -1,2 +1,2 @@
-Development of Jupiter file in future-plans branch
+Development of Jupiter file.
 Change 'E' by dev1
