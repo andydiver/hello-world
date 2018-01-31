@@ -4,3 +4,4 @@ objects of similar size in the Kuiper belt. In 2005, Eris, a dwarf planet in the
 is 27% more massive than Pluto, was discovered. This led the International Astronomical Union (IAU) 
 to define the term "planet" formally in 2006, during their 26th General Assembly. That definition 
 excluded Pluto and reclassified it as a dwarf planet.
+dev2: Change 'C'.
