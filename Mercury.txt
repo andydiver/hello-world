@@ -2,3 +2,10 @@ Mercury is the smallest and innermost planet in the Solar System.
 Its orbital period around the Sun of 88 days is the shortest of 
 all the planets in the Solar System. It is named after the 
 Roman deity Mercury, the messenger to the gods.
+
+Mercury is gravitationally locked with the Sun in a 3:2 spin-orbit resonance,[15] 
+and rotates in a way that is unique in the Solar System. As seen relative to 
+the fixed stars, it rotates on its axis exactly three times for every two revolutions 
+it makes around the Sun.[a][16] As seen from the Sun, in a frame of reference 
+that rotates with the orbital motion, it appears to rotate only once every two Mercurian years. 
+An observer on Mercury would therefore see only one day every two years.
